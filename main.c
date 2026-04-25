@@ -58,5 +58,8 @@ int main () {
     return 0;
 }
 
-//Kul med lite debugging också 
-//Hoppas vi ses snart igen! :)
+//här är min lösning.
+// progrmammet läser in namn och poäng för 5 studenter,
+//beräknar genomsnittet för varje student och det högsta genomsnittet,
+// och sedan skriver ut namnet på den student som har det högsta genomsnittet, samt namnen på de studenter som har ett genomsnitt under gruppens genomsnitt.
+<3
